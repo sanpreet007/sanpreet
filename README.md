@@ -1,2 +1,1 @@
-# sanpreet
-phython for finance 
+
